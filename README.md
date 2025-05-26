@@ -15,7 +15,7 @@ To run the simulation, it is necessary to have the following MATLAB add-ons inst
 
 The model **wat_coverage_final.m** incorporates multiple reflection orders to account for the complex multi-path environment created by campus buildings. Where environmental attenuation is integrated through a composite propagation model that accounts for atmospheric conditions relevant to the deployment area.
 
-The simulation model **wat_compare_complex.m** was developed for the analysis and optimization of antenna configurations in our university's private 5G network deployment. The MATLAB based simulation platform enables quantitative evaluation of different antenna array architectures, beamforming techniques, and spatial multiplexing capabilities within the targeted coverage area. By using raytracing propagation models and detailed physical layer analysis, this simulation provides insights for optimal network deployment.
+The simulation model **wat_compare_complex.m** was developed for the analysis and optimization of antenna configurations in our university's private 5G network deployment. The MATLAB simulation platform enables quantitative evaluation of different antenna array architectures, beamforming techniques, and spatial multiplexing capabilities within the targeted coverage area. By using raytracing propagation models and detailed physical layer analysis, this simulation provides insights for optimal network deployment.
 
 After each run the **wat_compare_complex.m** model saves antenna configuration in an additional file (eg. results_32TRX_128AE). After running all antenna configurations we move to the next simulation that compares all antenna systems **comparison_all.m**. 
 
