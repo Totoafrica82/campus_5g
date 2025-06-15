@@ -21,7 +21,7 @@ After each run the **wat_compare_complex.m** model saves antenna configuration i
 
 This model visualizes the different antenna configurations advantages and helps with choosing the right configuration for our 5G network. The MIMO configuration analysis compares three antenna setups (8TRX, 32TRX, and 64TRX).
 
-The **wat_KPI_complex_final.m ** model simulates performance metrics for our 5G campus network implementation. This MATLAB simulation evaluates signal quality, throughput, latency, jitter, and reliability against established KPI targets across multiple antenna configurations. We strategically place UE (measuring points) within the campus environment to analyze performance and capacity under varying network loads. While the simulation generates detailed performance visualizations for all positioned UEs
+The **wat_KPI_complex_final.m** model simulates performance metrics for our 5G campus network implementation. This MATLAB simulation evaluates signal quality, throughput, latency, jitter, and reliability against established KPI targets across multiple antenna configurations. We strategically place UE (measuring points) within the campus environment to analyze performance and capacity under varying network loads. While the simulation generates detailed performance visualizations for all positioned UEs
 
 Updated simulation **wat_KPI_1024qam_final.m** demonstrates the successful implementation of 1024QAM modulation into our private network model.
 
