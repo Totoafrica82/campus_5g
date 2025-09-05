@@ -2,6 +2,7 @@
 Campus 5G network proposal - qualitative assessment
 
 Author and questions: www.linkedin.com/in/tomasz-syrylo1
+https://www.researchgate.net/profile/Tomasz-Syrylo-2
 
 To run the simulation, it is necessary to have the following MATLAB add-ons installed:
 •	5G Toolbox
